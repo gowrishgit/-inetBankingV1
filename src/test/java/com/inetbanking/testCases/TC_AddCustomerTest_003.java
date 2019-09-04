@@ -30,7 +30,7 @@ public class TC_AddCustomerTest_003 extends BaseClass
 		logger.info("providing customer details....");
 		
 		
-		addcust.custName("Pavan");
+		addcust.custName("Gowri");
 		addcust.custgender("male");
 		addcust.custdob("1980","01","30");
 		Thread.sleep(5000);
